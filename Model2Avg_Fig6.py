@@ -14,7 +14,7 @@ from matplotlib.colors import LogNorm
 # Constants
 A = 10**8  # Area of the plume source (m^2)
 v_avg = 460  # m/s
-s_r = 3.2e13   # Sputtering rate (ptcls/sm²)
+s_r = 2.5e14   # Sputtering rate (ptcls/sm²)
 radrate_O2 = 6.3e13  # Radiolysis rate (O2/sm²)
 radrate_H2 = 8e13  # Radiolysis rate (H2/m²s )
 density_ppcc = 3.3e10/7000    # Ptc/cm³ for a plume of m = 1 kg/s
